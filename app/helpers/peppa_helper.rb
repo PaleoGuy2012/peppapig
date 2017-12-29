@@ -1,0 +1,2 @@
+module PeppaHelper
+end
